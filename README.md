@@ -1,2 +1,2 @@
 # SharpTagger
-Program to modify Tags of Audio-Files
+Program to modify Tags of Audio-Files (in progress)
