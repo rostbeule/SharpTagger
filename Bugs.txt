@@ -1,0 +1,47 @@
+Closed:
+MainWindow:
+- Starten der Applikation wird verhindert, wenn Bibliothek nicht eingebunden werden kann (Netzwerklaufwerk) - Exceptionbehandlung
+- Refresh nach Beenden Unterdialog Options liefert fehlerhafte TreeView-Darstellung
+- keine Alphabestische Sortierung TreeView (Sortierer gegen IComparer programmiert)
+- Hintergrundbild wird bei Vollbild nicht zentriert dargestellt (Schlauere Bedingungen oder nicht als Panel) -> aktuell kein Vollbild
+- Bildlaufleiset rückt bei Vollbild in den Fokus (schlauere Größenbedingung) -> aktuell kein Vollbild
+- Nach Klick auf Datei wird Hintergrund falsch dargestellt -> entfernt
+
+FileBrowser:
+- mindestens ein Tag muss ausgewählt sein (erste Spalte enthält 'string.Empty', somit nur Platzhalter für CheckBox) außerdem wird         Pfadangabe als "Mindesteinstellung" gesetzt => Liste enthält nun (versteckte) Indices die genaue Zuordnung des Listeneintrags     ermöglichen
+- automatische Spaltenbreite anpassung schlechte performance (Einstellungen erst in Array, dann Spaltenbreite setzen)
+- unvorhersehbare Sortierung in ListView (Datei-Browser) -> Sortierung der Einträge ermöglicht
+- für Genre aktuell keine Mehrfach-Benennung möglich (geht das nun, oder nicht?) -> geht, unterstützt Windows nur nicht
+
+Editor:
+- Im Editor angeben welcher Tag bearbeitet wird
+- siehe Editor-Code: Problem der Übersetzung Deutsch-Englisch ('collection' kann nicht mit dt. Tag-Namen ausgelesen werden, dieser     kommt aus LsvDataBrowser.Spaltenbenennung) => Objekte kennen nun auch deutsche Ausdrücke
+
+FileNameDesigner:
+- bei Test mit Liedern aus Ordner "Mehrfachbenennung" wurde Amazon ID vorgeschlagen, obwohl = string.Empty (Abfrage nun über if (String.IsNullOrEmpty("wert"))
+- Ohne Benutzung des File-Name Designers soll händische Manipulation möglich sein (ist nun Texteingabefeld - kein TreeView mehr)
+- Anzeige der Auswahl im LsvDataBrowser funktioniert nicht -> kann nicht gehen / verliert Fokus wenn anderes Steuerelement aktiv
+- Sonderzeichen die nicht im Namen stehen dürfen müssen abgefangen werden
+- Tag-Arrays beachten -> z.B.: Trennung mit ';'
+
+========================================================================================================================================
+
+Open:
+MainWindow:
++ Nach Schließen Unterdialog Optionen wird TreeView >>immer<< neu erstellt (eventuell schnellerer Aufbau, wenn in Liste geschrieben)
++ wenn einzelne Mp3 Files zwischen Ordnern erscheint FileBrowser - weitere Auswahl nicht möglich - Unterdialog muss geschlossen werden
++ aktuell werden nur mp3-Files erkannt
++ grauer Fake-Balken oben über gesamte Fensterbreite ziehen
+
+FileBrowser:
++ Spalte für CD-Anzahl, etc... wenn Wert = 0 -> soll nicht dargestellt werden / wenn kein Wert ebenso
++ Wenn ID3v1 oder Designer aktiv, wird Cover bei erneuter Liedwahl nicht aktualisiert
+
+FileNameDesigner:
++ Nicht alle Tags machen Sinn (...Ansichtssache...)
+
+========================================================================================================================================
+
+Zusätzliche Funktionalität:
++ Tastaturkürzel
++ Eventuell Config aufteilen in Standardwerte setzen (Init) und Aktualisieren (Refresh)

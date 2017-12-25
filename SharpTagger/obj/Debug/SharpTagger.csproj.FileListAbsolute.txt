@@ -1,0 +1,48 @@
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\bin\Debug\Tagger.exe.config
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\bin\Debug\Tagger.exe
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\bin\Debug\Tagger.pdb
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\bin\Debug\taglib-sharp.dll
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\obj\Debug\SharpTagger.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\obj\Debug\Tagger.Editor.resources
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\obj\Debug\Tagger.FileBrowser.resources
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\obj\Debug\Tagger.MainWindow.resources
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\obj\Debug\Tagger.Options.resources
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\obj\Debug\Tagger.Properties.Resources.resources
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\obj\Debug\SharpTagger.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\obj\Debug\SharpTagger.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\obj\Debug\Tagger.exe
+C:\Users\Tom\Desktop\Projektarbeit\SharpTagger\Tagger\obj\Debug\Tagger.pdb
+C:\Users\Tom\Desktop\GitHub\SharpTagger\bin\Debug\Tagger.exe.config
+C:\Users\Tom\Desktop\GitHub\SharpTagger\bin\Debug\Tagger.exe
+C:\Users\Tom\Desktop\GitHub\SharpTagger\bin\Debug\Tagger.pdb
+C:\Users\Tom\Desktop\GitHub\SharpTagger\bin\Debug\ID3TagLib.dll
+C:\Users\Tom\Desktop\GitHub\SharpTagger\bin\Debug\taglib-sharp.dll
+C:\Users\Tom\Desktop\GitHub\SharpTagger\obj\Debug\SharpTagger.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\GitHub\SharpTagger\obj\Debug\Tagger.Editor.resources
+C:\Users\Tom\Desktop\GitHub\SharpTagger\obj\Debug\Tagger.FileBrowser.resources
+C:\Users\Tom\Desktop\GitHub\SharpTagger\obj\Debug\Tagger.MainWindow.resources
+C:\Users\Tom\Desktop\GitHub\SharpTagger\obj\Debug\Tagger.Options.resources
+C:\Users\Tom\Desktop\GitHub\SharpTagger\obj\Debug\Tagger.Properties.Resources.resources
+C:\Users\Tom\Desktop\GitHub\SharpTagger\obj\Debug\SharpTagger.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\GitHub\SharpTagger\obj\Debug\SharpTagger.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\GitHub\SharpTagger\obj\Debug\Tagger.exe
+C:\Users\Tom\Desktop\GitHub\SharpTagger\obj\Debug\Tagger.pdb
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\bin\Debug\Tagger.exe.config
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\bin\Debug\Tagger.exe
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\bin\Debug\Tagger.pdb
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\bin\Debug\ID3TagLib.dll
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\bin\Debug\taglib-sharp.dll
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\SharpTagger.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.Editor.resources
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.FileBrowser.resources
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.MainWindow.resources
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.Options.resources
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.Properties.Resources.resources
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\SharpTagger.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\SharpTagger.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.exe
+C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.pdb

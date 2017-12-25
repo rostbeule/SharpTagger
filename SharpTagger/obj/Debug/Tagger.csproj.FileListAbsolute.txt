@@ -1,0 +1,16 @@
+F:\Projektarbeit\Tagger\Tagger\bin\Debug\Tagger.exe.config
+F:\Projektarbeit\Tagger\Tagger\bin\Debug\Tagger.exe
+F:\Projektarbeit\Tagger\Tagger\bin\Debug\Tagger.pdb
+F:\Projektarbeit\Tagger\Tagger\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\Projektarbeit\Tagger\Tagger\bin\Debug\taglib-sharp.dll
+F:\Projektarbeit\Tagger\Tagger\bin\Debug\policy.2.0.taglib-sharp.config
+F:\Projektarbeit\Tagger\Tagger\obj\Debug\Tagger.csprojResolveAssemblyReference.cache
+F:\Projektarbeit\Tagger\Tagger\obj\Debug\Tagger.Editor.resources
+F:\Projektarbeit\Tagger\Tagger\obj\Debug\Tagger.FileBrowser.resources
+F:\Projektarbeit\Tagger\Tagger\obj\Debug\Tagger.MainWindow.resources
+F:\Projektarbeit\Tagger\Tagger\obj\Debug\Tagger.Options.resources
+F:\Projektarbeit\Tagger\Tagger\obj\Debug\Tagger.Properties.Resources.resources
+F:\Projektarbeit\Tagger\Tagger\obj\Debug\Tagger.csproj.GenerateResource.Cache
+F:\Projektarbeit\Tagger\Tagger\obj\Debug\Tagger.csproj.CoreCompileInputs.cache
+F:\Projektarbeit\Tagger\Tagger\obj\Debug\Tagger.exe
+F:\Projektarbeit\Tagger\Tagger\obj\Debug\Tagger.pdb
