@@ -4,37 +4,37 @@ MainWindow:
 - Refresh nach Beenden Unterdialog Options liefert fehlerhafte TreeView-Darstellung
 - keine Alphabestische Sortierung TreeView (Sortierer gegen IComparer programmiert)
 - Hintergrundbild wird bei Vollbild nicht zentriert dargestellt (Schlauere Bedingungen oder nicht als Panel) -> aktuell kein Vollbild
-- Bildlaufleiset r¸ckt bei Vollbild in den Fokus (schlauere Grˆﬂenbedingung) -> aktuell kein Vollbild
+- Bildlaufleiset r√ºckt bei Vollbild in den Fokus (schlauere Gr√∂√üenbedingung) -> aktuell kein Vollbild
 - Nach Klick auf Datei wird Hintergrund falsch dargestellt -> entfernt
 
 FileBrowser:
-- mindestens ein Tag muss ausgew‰hlt sein (erste Spalte enth‰lt 'string.Empty', somit nur Platzhalter f¸r CheckBox) auﬂerdem wird         Pfadangabe als "Mindesteinstellung" gesetzt => Liste enth‰lt nun (versteckte) Indices die genaue Zuordnung des Listeneintrags     ermˆglichen
+- mindestens ein Tag muss ausgew√§hlt sein (erste Spalte enth√§lt 'string.Empty', somit nur Platzhalter f√ºr CheckBox) au√üerdem wird Pfadangabe als "Mindesteinstellung" gesetzt => Liste enth√§lt nun (versteckte) Indices die genaue Zuordnung des Listeneintrags     erm√∂glichen
 - automatische Spaltenbreite anpassung schlechte performance (Einstellungen erst in Array, dann Spaltenbreite setzen)
-- unvorhersehbare Sortierung in ListView (Datei-Browser) -> Sortierung der Eintr‰ge ermˆglicht
-- f¸r Genre aktuell keine Mehrfach-Benennung mˆglich (geht das nun, oder nicht?) -> geht, unterst¸tzt Windows nur nicht
+- unvorhersehbare Sortierung in ListView (Datei-Browser) -> Sortierung der Eintr√§ge erm√∂glicht
+- f√ºr Genre aktuell keine Mehrfach-Benennung m√∂glich (geht das nun, oder nicht?) -> geht, unterst√ºtzt Windows nur nicht
 
 Editor:
 - Im Editor angeben welcher Tag bearbeitet wird
-- siehe Editor-Code: Problem der ‹bersetzung Deutsch-Englisch ('collection' kann nicht mit dt. Tag-Namen ausgelesen werden, dieser     kommt aus LsvDataBrowser.Spaltenbenennung) => Objekte kennen nun auch deutsche Ausdr¸cke
+- siehe Editor-Code: Problem der √úbersetzung Deutsch-Englisch ('collection' kann nicht mit dt. Tag-Namen ausgelesen werden, dieser     kommt aus LsvDataBrowser.Spaltenbenennung) => Objekte kennen nun auch deutsche Ausdr√ºcke
 
 FileNameDesigner:
-- bei Test mit Liedern aus Ordner "Mehrfachbenennung" wurde Amazon ID vorgeschlagen, obwohl = string.Empty (Abfrage nun ¸ber if (String.IsNullOrEmpty("wert"))
-- Ohne Benutzung des File-Name Designers soll h‰ndische Manipulation mˆglich sein (ist nun Texteingabefeld - kein TreeView mehr)
+- bei Test mit Liedern aus Ordner "Mehrfachbenennung" wurde Amazon ID vorgeschlagen, obwohl = string.Empty (Abfrage nun √ºber if (String.IsNullOrEmpty("wert"))
+- Ohne Benutzung des File-Name Designers soll h√§ndische Manipulation m√∂glich sein (ist nun Texteingabefeld - kein TreeView mehr)
 - Anzeige der Auswahl im LsvDataBrowser funktioniert nicht -> kann nicht gehen / verliert Fokus wenn anderes Steuerelement aktiv
-- Sonderzeichen die nicht im Namen stehen d¸rfen m¸ssen abgefangen werden
+- Sonderzeichen die nicht im Namen stehen d√ºrfen m√ºssen abgefangen werden
 - Tag-Arrays beachten -> z.B.: Trennung mit ';'
 
 ========================================================================================================================================
 
 Open:
 MainWindow:
-+ Nach Schlieﬂen Unterdialog Optionen wird TreeView >>immer<< neu erstellt (eventuell schnellerer Aufbau, wenn in Liste geschrieben)
-+ wenn einzelne Mp3 Files zwischen Ordnern erscheint FileBrowser - weitere Auswahl nicht mˆglich - Unterdialog muss geschlossen werden
++ Nach Schlie√üen Unterdialog Optionen wird TreeView >>immer<< neu erstellt (eventuell schnellerer Aufbau, wenn in Liste geschrieben)
++ wenn einzelne Mp3 Files zwischen Ordnern erscheint FileBrowser - weitere Auswahl nicht m√∂glich - Unterdialog muss geschlossen werden
 + aktuell werden nur mp3-Files erkannt
-+ grauer Fake-Balken oben ¸ber gesamte Fensterbreite ziehen
++ grauer Fake-Balken oben √ºber gesamte Fensterbreite ziehen
 
 FileBrowser:
-+ Spalte f¸r CD-Anzahl, etc... wenn Wert = 0 -> soll nicht dargestellt werden / wenn kein Wert ebenso
++ Spalte f√ºr CD-Anzahl, etc... wenn Wert = 0 -> soll nicht dargestellt werden / wenn kein Wert ebenso
 + Wenn ID3v1 oder Designer aktiv, wird Cover bei erneuter Liedwahl nicht aktualisiert
 
 FileNameDesigner:
@@ -42,6 +42,6 @@ FileNameDesigner:
 
 ========================================================================================================================================
 
-Zus‰tzliche Funktionalit‰t:
-+ Tastaturk¸rzel
+Zus√§tzliche Funktionalit√§t:
++ Tastaturk√ºrzel
 + Eventuell Config aufteilen in Standardwerte setzen (Init) und Aktualisieren (Refresh)
