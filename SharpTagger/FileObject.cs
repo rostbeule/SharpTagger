@@ -5,7 +5,7 @@ using System.Windows.Forms;
 namespace Tagger
 {
     public class FileObject
-    {
+    {        
         private int index = -1;
         private string fileName;
         private bool backupDone;
