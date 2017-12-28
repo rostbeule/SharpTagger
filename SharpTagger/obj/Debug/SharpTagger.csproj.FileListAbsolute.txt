@@ -46,3 +46,20 @@ C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\SharpTagger.cspr
 C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\SharpTagger.csproj.CoreCompileInputs.cache
 C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.exe
 C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.pdb
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\bin\Debug\Tagger.exe.config
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\bin\Debug\Tagger.exe
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\bin\Debug\Tagger.pdb
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\bin\Debug\ID3TagLib.dll
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\bin\Debug\policy.2.0.taglib-sharp.dll
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\bin\Debug\taglib-sharp.dll
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\bin\Debug\policy.2.0.taglib-sharp.config
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\obj\Debug\SharpTagger.csprojResolveAssemblyReference.cache
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\obj\Debug\Tagger.Editor.resources
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\obj\Debug\Tagger.FileBrowser.resources
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\obj\Debug\Tagger.MainWindow.resources
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\obj\Debug\Tagger.Options.resources
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\obj\Debug\Tagger.Properties.Resources.resources
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\obj\Debug\SharpTagger.csproj.GenerateResource.Cache
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\obj\Debug\SharpTagger.csproj.CoreCompileInputs.cache
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\obj\Debug\Tagger.exe
+\\STELLA-GEMINAE\homes\Tom\Documents\GitHub\SharpTagger\SharpTagger\obj\Debug\Tagger.pdb
