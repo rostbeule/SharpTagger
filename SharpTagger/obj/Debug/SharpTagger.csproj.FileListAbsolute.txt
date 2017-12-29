@@ -46,3 +46,20 @@ C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\SharpTagger.cspr
 C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\SharpTagger.csproj.CoreCompileInputs.cache
 C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.exe
 C:\Users\Tom\Desktop\GitHub - SharpTagger\SharpTagger\obj\Debug\Tagger.pdb
+D:\Projekte\github\SharpTagger\SharpTagger\bin\Debug\Tagger.exe.config
+D:\Projekte\github\SharpTagger\SharpTagger\bin\Debug\Tagger.exe
+D:\Projekte\github\SharpTagger\SharpTagger\bin\Debug\Tagger.pdb
+D:\Projekte\github\SharpTagger\SharpTagger\bin\Debug\ID3TagLib.dll
+D:\Projekte\github\SharpTagger\SharpTagger\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Projekte\github\SharpTagger\SharpTagger\bin\Debug\taglib-sharp.dll
+D:\Projekte\github\SharpTagger\SharpTagger\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Projekte\github\SharpTagger\SharpTagger\obj\Debug\SharpTagger.csprojResolveAssemblyReference.cache
+D:\Projekte\github\SharpTagger\SharpTagger\obj\Debug\Tagger.Editor.resources
+D:\Projekte\github\SharpTagger\SharpTagger\obj\Debug\Tagger.FileBrowser.resources
+D:\Projekte\github\SharpTagger\SharpTagger\obj\Debug\Tagger.MainWindow.resources
+D:\Projekte\github\SharpTagger\SharpTagger\obj\Debug\Tagger.Options.resources
+D:\Projekte\github\SharpTagger\SharpTagger\obj\Debug\Tagger.Properties.Resources.resources
+D:\Projekte\github\SharpTagger\SharpTagger\obj\Debug\SharpTagger.csproj.GenerateResource.Cache
+D:\Projekte\github\SharpTagger\SharpTagger\obj\Debug\SharpTagger.csproj.CoreCompileInputs.cache
+D:\Projekte\github\SharpTagger\SharpTagger\obj\Debug\Tagger.exe
+D:\Projekte\github\SharpTagger\SharpTagger\obj\Debug\Tagger.pdb
